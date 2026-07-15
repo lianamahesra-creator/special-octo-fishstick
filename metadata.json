@@ -1,0 +1,6 @@
+{
+  "name": "Python Background Runner",
+  "description": "A simple application that runs a Python script in the background.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
